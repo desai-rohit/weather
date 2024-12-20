@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:location/location.dart';
-import 'package:weather/model/hour_Weather_model.dart';
-import 'package:weather/model/weather_model.dart';
 import 'package:weather/service/weather_service.dart';
 
 class WeatherProvider extends ChangeNotifier {
